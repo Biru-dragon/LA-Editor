@@ -17,3 +17,6 @@ A simple `python editor.py`.
 - `CTRL + S` to save (save file created next to the script)
 - `CTRL + O` to open the save file (the save file is always named `World.json`)
 - Almost all controls work just as they do in-game
+
+### Files ownership
+The files `Keys.png` and `Arrows.png` are the property of [Artem Yashin](https://store.steampowered.com/search/?developer=Artem%20Yashin)
